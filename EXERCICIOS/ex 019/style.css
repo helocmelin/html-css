@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+/*em HTML - id = CSS - #
+  em HTML - class = CSS - .
+*/
+
+* {
+    padding: 10px;
+    margin: 0px;
+}
+
+body {
+    background-color: #FAFAFA;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#principal {
+    text-align: center;
+    color: white;
+    background-color: #FA61B1;
+    border-radius: 10px;
+    padding: 0;
+    margin: 10px;
+}
+
+h1 {
+    color: #8C61FA;
+}
+
+.basico {
+    color: #FA5652;
+}
+
+.random {
+    text-decoration: underline;
+    margin: 0;
+}
